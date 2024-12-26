@@ -1,5 +1,7 @@
-# Geometry Dash Savefile Editor
+# Geometry Dash Savefile Util v1.2.0 by WEGFan (modified by ees4.dev)
 
-A tool that you can decrypt your *Geometry Dash* savefiles to XML document and encrypt them back.
+Original decryption code obtained from https://pastebin.com/JakxXUVG by Absolute Gamer
 
-Decrypter code downloaded from <https://pastebin.com/JakxXUVG> by [Absolute Gamer](https://www.youtube.com/user/MrGamingGun)
+This utility is for encrypting and decrypting Geometry Dash save files.
+Run this script in an empty directory or one used with this script previously.
+After editing the decrypted save files, use this script to encrypt them back.
